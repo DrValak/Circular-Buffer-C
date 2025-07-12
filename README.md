@@ -37,13 +37,13 @@ When inserting or removing data, the indices are managed so the buffer "wraps ar
 ### Compile
 
 ```sh
-gcc circular_buffer.c -o circular_buffer
+gcc buffer_c.c -o buffer_c
 ```
 
 ### Run
 
 ```sh
-./circular_buffer
+./buffer_c
 ```
 
 ### Sample Interaction
