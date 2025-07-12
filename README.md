@@ -1,4 +1,4 @@
-# Circular Buffer in C
+# Ring Buffer in C
 
 This project implements a **Circular Buffer (Ring Buffer)** in C, demonstrating core data structure operations such as insertion, removal, and displaying buffer contents.  
 It is designed to help you understand how circular buffers work, how to manage buffer overflow and underflow, and how to perform basic operations efficiently.
